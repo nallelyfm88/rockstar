@@ -2,7 +2,7 @@
 
 ##Intro
 
-Este es un cambio
+
 
 
 ##Nuevo cambio
